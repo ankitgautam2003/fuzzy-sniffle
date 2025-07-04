@@ -25,7 +25,7 @@ export default function EventPlaceSection() {
       value:
         "Dashmesh Guest House, Shri Nath Ji Market, Unnao Flyover, Civil Lines, Kalyani, Unnao, Uttar Pradesh 209801",
     },
-    { icon: Calendar, label: "Event Date", value: "July 15, 2025" },
+    { icon: Calendar, label: "Event Date", value: "July 09, 2025" },
     { icon: Clock, label: "Timing", value: "6:00 PM Onwards" },
   ];
 
